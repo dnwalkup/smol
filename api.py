@@ -2,8 +2,8 @@ import enum
 import os
 from pathlib import Path
 
-from smol_dev.prompts import plan, specify_file_paths, generate_code
-from smol_dev.utils import write_file
+from prompts import plan, specify_file_paths, generate_code
+from utils import write_file
 
 from agent_protocol import Agent, Step, Task
 

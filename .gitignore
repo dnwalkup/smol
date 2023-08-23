@@ -4,7 +4,9 @@ __pycache__
 .vscode
 .idea
 /.idea/
-venv/
+smolenv/
+keys
+
 
 # Ignore everything in the generated directory
 /generated/*
